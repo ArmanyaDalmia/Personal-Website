@@ -1077,10 +1077,12 @@ footer {
 
 footer .copyright {
   margin-bottom: .3rem;
+  font-size: 1px;
 }
 
 footer .credits {
   margin-bottom: 0;
+  font-size: 1px;
 }
 
 footer .credits a {
