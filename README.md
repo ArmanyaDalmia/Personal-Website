@@ -1,2 +1,4 @@
 # My Personal Website
- Personal Website - Work in progress
+ Personal Website - Deployed
+ 
+ *More stuff to come*
