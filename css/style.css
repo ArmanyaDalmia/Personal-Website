@@ -222,12 +222,13 @@ a:hover {
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px #0078ff;
   transition: all 500ms ease;
+  color: white;
 }
 
 .socials .ico-circle:hover {
   background-color: #0078ff;
-  color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  color: #1e1e1e;
+  box-shadow: 0 0 0 3px #1100ff;
   transition: all 500ms ease;
 }
 
@@ -346,7 +347,7 @@ a:hover {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #fff;
+  color: black;
 }
 
 /* Prelaoder */
@@ -718,7 +719,7 @@ a:hover {
 ======================================*/
 
 .service-box {
-  background-color: #fff;
+  background-color: #121212;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -726,14 +727,14 @@ a:hover {
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
-  color: #fff;
+  color: #1e1e1e;
   background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #1100ff;
 }
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #1e1e1e;
+  color: white;
 }
 
 .service-box .ico-circle {
@@ -749,7 +750,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: whitesmoke;
 }
 
 /*======================================
